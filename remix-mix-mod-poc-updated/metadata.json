@@ -1,8 +1,0 @@
-{
-  "name": "Remix mix MOD POC",
-  "description": "Batte card game",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
